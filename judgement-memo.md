@@ -245,8 +245,7 @@
 | Take A Chance | +7ms | - |
 | Thank You Merry Christmas | - | -10ms |
 | the beat | +12ms | +10ms |
-| The Island Song | -12ms
-| The Island Song | - | -15ms |
+| The Island Song | -12ms | -15ms |
 | Throw Out | - | +10ms |
 | Thunderstorm | - | -5ms |
 | THUNDERSTRIKE | - | -5ms |
